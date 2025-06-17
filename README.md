@@ -6,18 +6,6 @@
 
 This project aims to predict various addiction-related and mental health outcomes using the National Survey on Drug Use and Health (NSDUH) dataset. We explore different machine learning classification models, including AdaBoost, Stacking Classifier, Neural Network (MLP), and Bagging Classifier, to identify individuals at risk and determine the most impactful features for these predictions.
 
-## Table of Contents
-
-  - [Project Overview](https://www.google.com/search?q=%23project-overview)
-  - [Dataset](https://www.google.com/search?q=%23dataset)
-  - [Installation](https://www.google.com/search?q=%23installation)
-  - [Usage](https://www.google.com/search?q=%23usage)
-  - [Data Preprocessing](https://www.google.com/search?q=%23data-preprocessing)
-  - [Feature Engineering and Selection](https://www.google.com/search?q=%23feature-engineering-and-selection)
-  - [Models and Evaluation](https://www.google.com/search?q=%23models-and-evaluation)
-  - [Conclusion](https://www.google.com/search?q=%23conclusion)
-
------
 
 ## Dataset
 
